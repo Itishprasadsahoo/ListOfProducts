@@ -2,4 +2,8 @@ public class Master {
     public static void main(String[] args) {
         System.out.println("This is Master");
     }
+
+    public void dev() {
+        System.out.println("I am a developer");
+    }
 }
